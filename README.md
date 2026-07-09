@@ -58,7 +58,11 @@ I'm a passionate cybersecurity enthusiast dedicated to understanding and improvi
 - [ ] **Vulnerability Assessment and Penetration Testing** – Alison 
 - [ ] **Ethical Hacking** – Great Learning Academy
 - [ ] **Securing MongoDB Atlas: Authentication & Authorization** – MongoDB
-- [ ] **Securing MongoDB Self-Managed: Authentication & Authorization** – MongoDB 
+- [ ] **Securing MongoDB Self-Managed: Authentication & Authorization** – MongoDB
+- [ ] **Cyber job simulation** - Forage ( Deloitte )
+- [ ] **Cyber Security job simulation** - Forage ( Master Card )
+- [ ] **Cyber Analyst job simulation** - Forage ( Tata )
+        
 ## 📫 Let's Connect
 
 <p align="center">
