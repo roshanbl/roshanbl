@@ -11,7 +11,7 @@
 
 I'm a passionate cybersecurity enthusiast dedicated to understanding and improving digital security. I enjoy exploring vulnerabilities, understanding attack vectors, and developing defensive strategies. I'm constantly learning and participating in CTF challenges to enhance my skills.
 
-## 🔧 Tech Stack & Tools
+## 🔧 Tools
 
 ### 🔐 Security Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
